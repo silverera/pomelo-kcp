@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "node-kcp": "^1.0.8",
+    "pomelo-protocol": "0.1.6",
     "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git"
   },
   "devDependencies": {
